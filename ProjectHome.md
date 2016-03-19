@@ -1,0 +1,1 @@
+This project aimed to create a clean, easy to use IRC Framework for creating bots in both C++ and Lua.
